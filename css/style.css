@@ -382,168 +382,169 @@ body {
 img {
   max-width: 100%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000315}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000312}}
 .row {
   margin-bottom: 15px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\000038}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\000035}}
   .row::after {
     clear: both;
     display: block;
     content: ''; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000321}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000318}}
 .col {
   float: left;
   padding-right: 15px;
   padding-left: 15px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000328}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000325}}
 .col1 {
   width: 8.3333333333%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000328}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000325}}
 .col2 {
   width: 16.6666666667%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000328}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000325}}
 .col3 {
   width: 25%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000328}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000325}}
 .col4 {
   width: 33.3333333333%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000328}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000325}}
 .col5 {
   width: 41.6666666667%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000328}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000325}}
 .col6 {
   width: 50%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000328}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000325}}
 .col7 {
   width: 58.3333333333%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000328}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000325}}
 .col8 {
   width: 66.6666666667%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000328}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000325}}
 .col9 {
   width: 75%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000328}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000325}}
 .col10 {
   width: 83.3333333333%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000328}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000325}}
 .col11 {
   width: 91.6666666667%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000328}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000325}}
 .col12 {
   width: 100%; }
 
 @media (min-width: 600px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000335}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000332}}
   .colM1 {
     width: 8.3333333333%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000335}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000332}}
   .colM2 {
     width: 16.6666666667%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000335}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000332}}
   .colM3 {
     width: 25%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000335}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000332}}
   .colM4 {
     width: 33.3333333333%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000335}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000332}}
   .colM5 {
     width: 41.6666666667%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000335}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000332}}
   .colM6 {
     width: 50%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000335}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000332}}
   .colM7 {
     width: 58.3333333333%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000335}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000332}}
   .colM8 {
     width: 66.6666666667%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000335}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000332}}
   .colM9 {
     width: 75%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000335}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000332}}
   .colM10 {
     width: 83.3333333333%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000335}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000332}}
   .colM11 {
     width: 91.6666666667%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000335}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000332}}
   .colM12 {
     width: 100%; } }
 @media (min-width: 900px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000340}}
   .colL1 {
     width: 8.3333333333%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000340}}
   .colL2 {
     width: 16.6666666667%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000340}}
   .colL3 {
     width: 25%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000340}}
   .colL4 {
     width: 33.3333333333%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000340}}
   .colL5 {
     width: 41.6666666667%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000340}}
   .colL6 {
     width: 50%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000340}}
   .colL7 {
     width: 58.3333333333%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000340}}
   .colL8 {
     width: 66.6666666667%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000340}}
   .colL9 {
     width: 75%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000340}}
   .colL10 {
     width: 83.3333333333%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000340}}
   .colL11 {
     width: 91.6666666667%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000340}}
   .colL12 {
     width: 100%; } }
 @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/style\.scss}line{font-family:\0000320}}
 .container {
-  max-width: 1000px;
+  width: 100%;
+  max-width: 1200px;
   margin: 0 auto; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_nav\.scss}line{font-family:\000031}}
@@ -585,5 +586,46 @@ img {
 .listItem {
   padding: 20px;
   font-size: 20px; }
+
+@media screen and (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_nav\.scss}line{font-family:\0000336}}
+  .navContainer {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_nav\.scss}line{font-family:\0000340}}
+  .navIcon {
+    display: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_nav\.scss}line{font-family:\0000344}}
+  .navList {
+    display: block !important; }
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_nav\.scss}line{font-family:\0000347}}
+    .navList ul {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-pack: center;
+          -ms-flex-pack: center;
+              justify-content: center; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_nav\.scss}line{font-family:\0000353}}
+  .listItem {
+    padding: 0 20px; } }
+@media screen and (min-width: 900px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_nav\.scss}line{font-family:\0000359}}
+  .navContainer {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_nav\.scss}line{font-family:\0000363}}
+  .navList {
+    width: auto; } }
 
 /*# sourceMappingURL=style.css.map */
