@@ -1,0 +1,70 @@
+.banner {
+    width: 100%;
+    height: 100vh;
+
+    // background-image: url("../images/banner.jpg");
+    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('../images/banner.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bannerImage {
+    display: none;
+}
+
+.bannerText {
+    text-align: center;
+    padding: 0 20px;
+}
+
+@media screen and (min-width: $mdWidth) {
+    .bannerImage {
+        display: flex;
+        justify-content: center;
+    }
+
+    .bannerText {
+        font-size: 1em;
+        margin-top: 10%;
+        padding: 10% 10%;
+    }
+
+    .iphoneImage {
+        width: 35%;
+    }
+
+    .buttonTablet {
+        width: auto;
+        margin-top: 5%;
+    }
+}
+
+@media screen and (min-width: 900px) {
+    .banner {
+        justify-content: flex-end;
+        padding-top: 10%;
+    }
+
+    .bannerImage {
+        float: right;
+    }
+
+    .bannerText {
+        text-align: left;
+        float: left;
+        margin: 0;
+        padding: 0;
+    }
+
+    .iphoneImage {
+        width: 15%;
+        position: absolute;
+        right: 0;
+        margin-right: 8%;
+    }
+}

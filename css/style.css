@@ -2,7 +2,7 @@
    v2.0-modified | 20110126
    License: none (public domain)
 */
-@import url("https://fonts.googleapis.com/css?family=Bitter|Open+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
 @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_reset\.scss}line{font-family:\000036}}
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -376,9 +376,10 @@ textarea {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/style\.scss}line{font-family:\000039}}
 body {
-  font-family: "open Sans", sans-serif; }
+  font-family: "open Sans", sans-serif;
+  font-size: 20px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/style\.scss}line{font-family:\0000313}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/style\.scss}line{font-family:\0000314}}
 img {
   max-width: 100%; }
 
@@ -541,15 +542,55 @@ img {
 @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_grid\.scss}line{font-family:\0000340}}
   .colL12 {
     width: 100%; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/style\.scss}line{font-family:\0000320}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/style\.scss}line{font-family:\0000321}}
 .container {
   width: 100%;
   max-width: 1200px;
   margin: 0 auto; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/style\.scss}line{font-family:\0000327}}
+.bgRed {
+  background-color: #BD4F4F !important; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/style\.scss}line{font-family:\0000331}}
+.textRed {
+  color: #BD4F4F !important; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/style\.scss}line{font-family:\0000335}}
+.textWhite {
+  color: white !important; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/style\.scss}line{font-family:\0000339}}
+.mainHeading {
+  font-size: 2em;
+  font-weight: bold; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/style\.scss}line{font-family:\0000344}}
+.button {
+  display: inline-block;
+  background-color: grey;
+  color: white;
+  padding: 6px 12px;
+  margin-top: 10px;
+  border-color: transperant;
+  text-decoration: none;
+  line-height: 1.5; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/style\.scss}line{font-family:\0000355}}
+.buttonRound {
+  border-radius: 15px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/style\.scss}line{font-family:\0000359}}
+.buttonLarge {
+  font-size: 1.5em;
+  padding: 10px 50px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/style\.scss}line{font-family:\0000364}}
+.buttonHeader {
+  width: 100%; }
+
 @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_nav\.scss}line{font-family:\000031}}
 .navbar {
-  background-color: #BD4F4F;
   padding: 10px;
   color: white;
   position: fixed;
@@ -557,7 +598,7 @@ img {
   left: 0;
   width: 100%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_nav\.scss}line{font-family:\0000311}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_nav\.scss}line{font-family:\0000310}}
 .navContainer {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -571,38 +612,38 @@ img {
   -ms-flex-wrap: wrap;
       flex-wrap: wrap; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_nav\.scss}line{font-family:\0000318}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_nav\.scss}line{font-family:\0000317}}
 .navLogo {
   width: 150px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_nav\.scss}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_nav\.scss}line{font-family:\0000321}}
 .navList {
   display: none;
   width: 100%;
   text-align: center;
   padding: 20px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_nav\.scss}line{font-family:\0000329}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_nav\.scss}line{font-family:\0000328}}
 .listItem {
   padding: 20px;
   font-size: 20px; }
 
 @media screen and (min-width: 600px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_nav\.scss}line{font-family:\0000336}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_nav\.scss}line{font-family:\0000335}}
   .navContainer {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_nav\.scss}line{font-family:\0000340}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_nav\.scss}line{font-family:\0000339}}
   .navIcon {
     display: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_nav\.scss}line{font-family:\0000344}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_nav\.scss}line{font-family:\0000343}}
   .navList {
     display: block !important; }
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_nav\.scss}line{font-family:\0000347}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_nav\.scss}line{font-family:\0000346}}
     .navList ul {
       display: -webkit-box;
       display: -ms-flexbox;
@@ -611,11 +652,11 @@ img {
           -ms-flex-pack: center;
               justify-content: center; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_nav\.scss}line{font-family:\0000353}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_nav\.scss}line{font-family:\0000352}}
   .listItem {
     padding: 0 20px; } }
 @media screen and (min-width: 900px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_nav\.scss}line{font-family:\0000359}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_nav\.scss}line{font-family:\0000358}}
   .navContainer {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -624,8 +665,85 @@ img {
     -ms-flex-wrap: nowrap;
         flex-wrap: nowrap; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_nav\.scss}line{font-family:\0000363}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_nav\.scss}line{font-family:\0000362}}
   .navList {
     width: auto; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_header\.scss}line{font-family:\000031}}
+.banner {
+  width: 100%;
+  height: 100vh;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0.3))), url("../images/banner.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../images/banner.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_header\.scss}line{font-family:\0000316}}
+.bannerImage {
+  display: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_header\.scss}line{font-family:\0000320}}
+.bannerText {
+  text-align: center;
+  padding: 0 20px; }
+
+@media screen and (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_header\.scss}line{font-family:\0000326}}
+  .bannerImage {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_header\.scss}line{font-family:\0000331}}
+  .bannerText {
+    font-size: 1em;
+    margin-top: 10%;
+    padding: 10% 10%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_header\.scss}line{font-family:\0000337}}
+  .iphoneImage {
+    width: 35%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_header\.scss}line{font-family:\0000341}}
+  .buttonTablet {
+    width: auto;
+    margin-top: 5%; } }
+@media screen and (min-width: 900px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_header\.scss}line{font-family:\0000348}}
+  .banner {
+    -webkit-box-pack: end;
+        -ms-flex-pack: end;
+            justify-content: flex-end;
+    padding-top: 10%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_header\.scss}line{font-family:\0000353}}
+  .bannerImage {
+    float: right; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_header\.scss}line{font-family:\0000357}}
+  .bannerText {
+    text-align: left;
+    float: left;
+    margin: 0;
+    padding: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/0\.002Yoobee\/website-demo\/sass\/_header\.scss}line{font-family:\0000364}}
+  .iphoneImage {
+    width: 15%;
+    position: absolute;
+    right: 0;
+    margin-right: 8%; } }
 
 /*# sourceMappingURL=style.css.map */
